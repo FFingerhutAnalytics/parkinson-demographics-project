@@ -29,6 +29,8 @@ Das Repository ist wie folgt aufgebaut:
 * **Alter & Mobilitätsfaktoren:** Mit steigendem Alter zeigen vor allem männliche Patienten einen höheren Schweregrad der Erkrankung sowie eine moderate Korrelation zwischen Alter und dem TUAG-Testergebnis (Timed Up and Go).
 * **Methodische Limitationen:** Datenqualitätsprobleme durch uneinheitliche Maßeinheiten aus drei verschiedenen Studienquellen und eine relativ kleine Kohorte (161 Probanden), die zukünftige Längsschnittstudien erfordert.
 
+<img width="2505" height="1440" alt="dashboard_parkinson_projekt" src="https://github.com/user-attachments/assets/fe022f65-2a28-425f-92f3-bf5164fb7aeb" />
+
 ## 👤 Autor
 
 * **FFingerhutAnalytics** – [GitHub-Profil](https://github.com/FFingerhutAnalytics)
