@@ -7,7 +7,7 @@ Dieses Projekt untersucht einen demographischen Datensatz zur Parkinson-Erkranku
 Das Repository ist wie folgt aufgebaut:
 
 * **`projekt_parkinson.ipynb`** – Das Jupyter Notebook mit der vollständigen Python-Analyse.
-* **`Dashboard_Parkinson_Projekt.pdf`** – Ein Export des Power BI Dashboards zur visuellen Exploration.
+* **`Dashboard_Parkinson_Projekt.pbix`** – Ein Power BI Dashboards zur visuellen Exploration.
 * **`demographics.xls`** – Der zugrundeliegende demographische Datensatz.
 * **`Fragestellung_Projekt_Parkinson.pdf`** – Die zugrundeliegenden Leitfragen und Ziele dieser Analyse.
 
@@ -32,3 +32,7 @@ Das Repository ist wie folgt aufgebaut:
 ## 👤 Autor
 
 * **FFingerhutAnalytics** – [GitHub-Profil](https://github.com/FFingerhutAnalytics)
+
+## 💽 Datenquelle
+
+* **[PhysioNet](https://physionet.org/) :** Goldberger, A., Amaral, L., Glass, L., Hausdorff, J., Ivanov, P. C., Mark, R., ... & Stanley, H. E. (2000). PhysioBank, PhysioToolkit, and PhysioNet: Components of a new research resource for complex physiologic signals. Circulation [Online]. 101 (23), pp. e215–e220. RRID:SCR_007345. [(Link)](https://physionet.org/content/gaitpdb/1.0.0/)
